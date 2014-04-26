@@ -1,0 +1,6 @@
+{
+    "space_in_paren": true,
+    "jslint_happy": true,
+    "break_chained_methods": true,
+    "wrap_line_length": 120
+}
