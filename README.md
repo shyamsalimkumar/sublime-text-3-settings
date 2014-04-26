@@ -1,4 +1,4 @@
-I use Sublime Text as my code editor, and so this repo will serve as a user
+I use Sublime Text as my code editor, and so this repo will hold my user
 settings so that I have the same settings for development.
 
 Clone the repo
