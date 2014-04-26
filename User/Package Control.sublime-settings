@@ -1,0 +1,23 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Bracketeer",
+		"CSS Extended Completions",
+		"CSS Format",
+		"Dayle Rees Color Schemes",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"JsFormat",
+		"JSHint",
+		"Nettuts+ Fetch",
+		"Open URL",
+		"ScalaFormat",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint"
+	]
+}
