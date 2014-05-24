@@ -13,9 +13,12 @@
 		"GitGutter",
 		"JsFormat",
 		"JSHint",
+		"LESS",
 		"Nettuts+ Fetch",
 		"Open URL",
+		"Sass",
 		"ScalaFormat",
+		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint"
