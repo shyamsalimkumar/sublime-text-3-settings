@@ -1,3 +1,5 @@
 *.tmTheme
 *.last-run
 *.cache
+Package Control.user-ca-bundle
+Package Control.merged-ca-bundle

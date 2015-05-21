@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -6,6 +9,7 @@
 		"CSS Extended Completions",
 		"CSS Format",
 		"Dayle Rees Color Schemes",
+		"Devastate",
 		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
@@ -16,6 +20,7 @@
 		"LESS",
 		"Nettuts+ Fetch",
 		"Open URL",
+		"Package Control",
 		"Sass",
 		"ScalaFormat",
 		"SideBarEnhancements",

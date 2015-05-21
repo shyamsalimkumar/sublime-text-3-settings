@@ -1,7 +1,8 @@
 {
 	"bold_folder_labels": false,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/Solarized (Dark) (SL).tmTheme",
+	"color_scheme": "Packages/Devastate/Devastate.tmTheme",
+  	"theme": "Devastate.sublime-theme",
 	"detect_slow_plugins": false,
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"ensure_newline_at_eof_on_save": false,
